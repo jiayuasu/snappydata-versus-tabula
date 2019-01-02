@@ -1,0 +1,8 @@
+/work/
+/logs/
+/ide/
+/hive/
+/metastore_db/
+/quickstartdatadir/
+/spark-warehouse/
+*.log
