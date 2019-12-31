@@ -1,6 +1,6 @@
 # SnappyData VS Tabula
 
-This repository contains an experimental comparison between [SnappyData](https://www.snappydata.io/) and [Tabula](https://github.com/jiayuasu/tabula).
+This repository contains an experimental comparison between [SnappyData](https://www.snappydata.io/) and [Tabula](https://github.com/DataSystemsLab/tabula).
 
 The experiment studies the performance of Synopsis Data Engine of SnappyData 1.0.2.1 Enterprise version. OLAP column-stored is used here.
 
